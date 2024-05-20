@@ -2,11 +2,7 @@
 
 This repository contains the source code for my personal portfolio website. It showcases my education, work experience, projects and skills.
 
-Features
-About Me
-Education
-Work Experience
-Contact
+
 Technologies Used
 HTML
 CSS
