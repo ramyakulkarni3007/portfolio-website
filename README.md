@@ -1,11 +1,15 @@
-﻿# portfolio-website
+Portfolio Website
+This repository contains the source code for my personal portfolio website. It showcases my projects, skills, and professional experience.
 
-This repository contains the source code for my personal portfolio website. It showcases my education, work experience, projects and skills.
-
-
+Features
+Home: Introduction and overview of my profile.
+Projects: Detailed showcase of my projects with descriptions and links.
+Skills: A comprehensive list of my technical and professional skills.
+About Me: Background, education, and professional journey.
+Contact: Contact form and social media links.
 Technologies Used
 HTML
 CSS
 JavaScript
 How to View
-Clone the repository and open index.html in your browser to view the website locally.
+To view the website locally, open index.html in your browser.
